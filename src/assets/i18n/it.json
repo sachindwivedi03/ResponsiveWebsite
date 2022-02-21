@@ -1,0 +1,121 @@
+{
+    "choose_language": "Lingua",
+    "header": {
+        "home": "Casa",
+        "about": "Circa",
+        "services": "Servizi",
+        "blogs": "Blog",
+        "contact": "Contattaci"
+    },
+    "footer": {},
+    "homep1": "Soluzione completa per le esigenze di progettazione della vostra macchina elettrica!",
+    "homep11": "Rivoluzioniamo insieme!",
+    "homep2": "Siamo una start-up tecnologica che lavora per fornire ai nostri clienti soluzioni di progettazione di motori elettrici e controller ben ottimizzate, altamente efficienti ma competitive in termini di costi.",
+    "homep3": "Integriamo più fisici coinvolti in macchine elettriche cioè elettromagnetica, termica, strutturale, acustica, controllo per generare progetti all'avanguardia.",
+    "homeh2": "Perché Motorcon?",
+    "homeh21": "Ricca esperienza",
+    "homep21": "Il nostro team ha una vasta attività industriale e di ricerca nella progettazione e nello sviluppo di macchine elettriche",
+    "homeh31": "Flessibilità ",
+    "homep31": "Lavoriamo in base alle esigenze dei nostri clienti per garantire un'esperienza senza soluzione di continuità ai nostri clienti",
+    "homeh41": "Innovazione ",
+    "homep41": "Lavoriamo continuamente con le istituzioni accademiche per tenere il passo con i progressi della tecnologia.",
+    "homeh51": "Disponibilità ",
+    "homep51": "Siamo sempre raggiungibili per i nostri clienti",
+    "homeh3": "Cosa offriamo",
+    "homep311": "Disegni elettromagnetici",
+    "homep312": "Progettazione di controller",
+    "homep313": "Progettazioni meccaniche",
+    "info": "Mostra informazioni",
+    "language.english": "EN",
+    "language.french": "FR",
+    "language.german": "DE",
+    "language.italian": "IT",
+    "aboutp1": "Motorcon Solutions è una start-up tecnologica guidata da un team di ingegneri giovani ma esperti per sviluppare progetti di macchine elettriche competitive per applicazioni automobilistiche, aerospaziali, di difesa e industriali.",
+    "aboutp11": "Motorcon solutions lavora al tuo fianco per comprendere i tuoi punti deboli e lavorare verso la progettazione di soluzioni su misura per te, per metterti davanti alla concorrenza.",
+    "aboutp13": "Sfruttiamo la nostra vasta esperienza per fornirti le migliori soluzioni.",
+    "abouth2": "Lavoriamo in:",
+    "aboutp21": "Disegni elettromagnetici ",
+    "aboutp22": "Progettazione termica",
+    "aboutp23": "Analisi strutturale e acustica",
+    "aboutp24": "Design del controller per azionamenti",
+    "abouth3": "La nostra visione e missione",
+    "aboutp3": "Sviluppare noi stessi come partner di progettazione preferito per motori elettrici e controller per OEM in India e in tutto il mondo.",
+    "aboutp4": "Sfruttare le nostre conoscenze ed esperienze a vantaggio dei nostri clienti e raggiungere il progresso tecnologico collettivo nel campo dei motori elettrici e dei controllori",
+    "aboutp5": "Per saperne di più su di noi scriveteci a",
+    "contactus": "Mettiti in contatto",
+    "getintouch": "Mettiamoci in contatto",
+    "welcometext": "Siamo aperti a collaborazioni.",
+    "name": "Nome e Cognome",
+    "mailaddress": "Aggiunte e-mail",
+    "mail": "E-mail: ",
+    "company": "Società",
+    "message": "Messaggio",
+    "address": "Indirizzo: ",
+    "send": "INVIA",
+    "website": "Sito web: ",
+    "successMessage": "Grazie per averci scelto. Ti risponderemo!",
+    "failedMessage": "Siamo spiacenti, a causa di alcuni problemi tecnici non possiamo inviare il tuo messaggio. Scriveteci a contact@motorcons.com",
+    "servicesp11": "Con la nostra esperienza nella progettazione di motori e controller per motori elettrici, siamo più adatti a supportare le vostre esigenze di progettazione di macchine elettriche e controller.",
+    "servicesp12": "Nei giorni precedenti la macchina elettrica era vista come un problema elettromagnetico. Ma oggi a causa dei vincoli di spazio e di costo nell'applicazione automobilistica e a causa della concorrenza spietata sul mercato, è necessario considerare tutta la fisica intrecciata coinvolta in una macchina elettrica per un design ottimizzato.",
+    "servicesp13": "Siamo specializzati nella progettazione e analisi di macchine elettriche dal punto di vista multi-fisico.",
+    "servicesh2": "I nostri servizi di progettazione di macchine elettriche comprendono:",
+    "servicesh21": {
+        "servicesh": "Progettazione elettromagnetica",
+        "servicesp1": "Selezione della topologia",
+        "servicesp2": "Design a bassa fedeltà",
+        "servicesp3": "Analisi di sensibilità e ottimizzazione",
+        "servicesp4": "Verifica del design ad alta fedeltà",
+        "servicesp5": "Simulazione di progettazione avanzata "
+    },
+    "servicesh22": {
+        "servicesh": "Design termico",
+        "servicesp1": "Convezione naturale - Fin design",
+        "servicesp2": "Raffreddamento ad aria forzata - Ventilatore raffreddato",
+        "servicesp3": "Raffreddamento a liquido forzato"
+    },
+    "servicesh23": {
+        "servicesh": "Progettazione strutturale e acustica",
+        "servicesp1": "Analisi delle sollecitazioni sul rotore alla velocità desiderata",
+        "servicesp2": "NVH"
+    },
+    "servicesh24": {
+        "servicesh": "Progettazione dell'algoritmo di controllo",
+        "servicesp1": "Progettazione di algoritmi di controllo con simulazione ROM/ Tr- Tr Co-",
+        "servicesp2": "Generazione di codice per microcontrollori leader del settore"
+    },
+    "servicesh25": {
+        "servicesh": "Design del controller per azionamenti",
+        "servicesp1": "Progettazione della carta di controllo",
+        "servicesp2": "Design della scheda di alimentazione"
+    },
+    "servicesh26": {
+        "servicesh": "Analisi termica per PCB",
+        "servicesp1": "Convezione naturale - Fin design",
+        "servicesp2": "Raffreddamento ad aria forzata - Ventilatore raffreddato",
+        "servicesp3": "Raffreddamento a liquido forzato"
+    },
+    "servicesh27": {
+        "servicesh": "Modellazione 3D e disegni di produzione 2D",
+        "servicesp1": "Disegni pronti per la produzione"
+    },
+    "servicesh3": "Eccelliamo in",
+    "servicesh31": {
+        "servicesh": "Motori a flusso radiale:",
+        "servicesp1": "Motori a induzione",
+        "servicesp2": "Motori sincroni a magneti permanenti ",
+        "servicesp3": "Motori sincroni a campo avvolto",
+        "servicesp4": "Motori sincroni a riluttanza",
+        "servicesp5": "Motori a riluttanza commutata",
+        "servicesp6": "Motori sincroni a riluttanza assistita da magneti permanenti"
+    },
+    "servicesh32": {
+        "servicesh": "Motori a flusso assiale:",
+        "servicesp1": "Motori sincroni a magneti permanenti:",
+        "servicesp2": "Rotore singolo-Statore singolo",
+        "servicesp3": "Doppio statore-Rotore singolo (AFIR)",
+        "servicesp4": "Doppio rotore-Statore singolo (TORUS)"
+    },
+    "servicesh4": "Utilizziamo il portafoglio Ansys per le nostre simulazioni. Simuliamo tutti i nostri progetti con il metodo degli elementi finiti per garantire la massima corelazione con prototipi reali.",
+    "servicesh5": "Utilizziamo MATLAB-Simulink per la progettazione di algoritmi di controllo.",
+    "servicesConnect": "Vuoi saperne di più? Connettiamoci!"
+}

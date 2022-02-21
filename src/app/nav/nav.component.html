@@ -1,0 +1,36 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="nav">
+    <input type="checkbox" id="nav-check">
+    <div class="nav-header">
+        <a class="nav-title" routerLink="/">
+            <img src="../../assets/img/logowhite.png" class="logo">
+        </a>
+    </div>
+    <div class="navSelector">
+        <img src="../../assets/img/language.png" class="image">
+        <div class="languagePicker">
+            <select (change)="selectLanguage($event)" class="language-picker">
+                <option value="en"> {{ 'language.english' | translate }} </option>
+                <option value="es"> {{ 'language.french' | translate }} </option>
+                <option value="it"> {{ 'language.italian' | translate }} </option>
+                <option value="german"> {{ 'language.german' | translate }} </option>
+            </select>
+        </div>
+    </div>
+    <div class="nav-btn">
+        <label (click)="toggleShow1()"> <img src="../../assets/img/nav.png" class="navbutton">
+            <div *ngIf="isShown1" class="toggleList">
+                <a class="nav-link" routerLink="/about">{{ 'header.about' | translate }}</a>
+                <!-- <a class="nav-link" routerLink="/blogs">{{ 'header.blogs' | translate }}</a> -->
+                <a class="nav-link" routerLink="/services">{{ 'header.services' | translate }}</a>
+                <a class="nav-link" routerLink="/contact">{{ 'header.contact' | translate }}</a>
+            </div>
+        </label>
+    </div>
+    <div class="nav-links">
+        <a class="nav-link" routerLink="/about">{{ 'header.about' | translate }}</a>
+        <!-- <a class="nav-link" routerLink="/blogs">{{ 'header.blogs' | translate }}</a> -->
+        <a class="nav-link" routerLink="/services">{{ 'header.services' | translate }}</a>
+        <a class="nav-link" routerLink="/contact">{{ 'header.contact' | translate }}</a>
+    </div>
+</div>

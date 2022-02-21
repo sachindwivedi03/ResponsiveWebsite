@@ -1,0 +1,77 @@
+<div class="background">
+
+  <div *ngIf="alertSuccessful" class="alert2" >
+    <div class="alert" id="passed">
+      <h3>{{ 'successMessage' | translate }}</h3>
+      <a (click)="closeAlert()" class="close"><img src="../../assets/img/close.png" class="closeIcon"></a>
+    </div>
+  </div>
+
+  <div *ngIf="alertFailed" class="alert2">
+    <div class="alert"  id="failed">
+      <a class = "failedText" href='mailto: contact@motorcons.com'>{{ 'failedMessage' | translate }}</a>
+      <a (click)="closeAlert()" class="close"><img src="../../assets/img/close.png" class="closeIcon"></a>
+    </div>
+  </div>
+  
+  <div class="app-title">
+    <h1>{{ 'getintouch' | translate }}</h1>
+    <h5>{{ 'welcometext' | translate }}</h5>
+    <div class="contactdetails">
+      <div class="address">
+        <img src="../../assets/img/address.png" class="imgaddress">
+        <h5>{{ 'address' | translate }}
+          <p>Plot No-20, Gopal nagar, Kanpur Nagar, 208011</p>
+        </h5>
+      </div>
+      <div class="address">
+        <img src="../../assets/img/mail.png" class="imgmail">
+        <h5>{{ 'mail' | translate }}
+          <p><a href='mailto: contact@motorcons.com'>contact@motorcons.com</a></p>
+        </h5>
+
+      </div>
+      <div class="address">
+        <img src="../../assets/img/website.png" class="imgsite">
+        <h5>{{ 'website' | translate }}
+          <p>www.motorcons.com</p>
+        </h5>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <div class="screen-body-item">
+    
+    <form class="app-form" (submit)="sendEmail($event)">
+      <h1>{{ 'contactus' | translate }}</h1>
+      <div class="line1">
+        <div class="name">
+          <div class="app-form-group">
+            <label for="fname">{{ 'name' | translate }}</label>
+            <input class="app-form-control" placeholder="{{ 'name' | translate }}" name="name">
+          </div>
+        </div>
+        <div class="mail">
+          <div class="app-form-group">
+            <label for="fname">{{ 'mailaddress' | translate }}</label>
+            <input class="app-form-control" type="email" placeholder="{{ 'mailaddress' | translate }}" name="maill">
+          </div>
+        </div>
+      </div>
+      <div class="app-form-group company">
+        <label for="fname">{{ 'company' | translate }}</label>
+        <input class="app-form-control" placeholder="{{ 'company' | translate }}" name="company">
+      </div>
+      <div class="app-form-group message" id="message">
+        <label for="fname">{{ 'message' | translate }}</label>
+        <textarea class="app-form-control" placeholder="{{ 'message' | translate }}" rows="4" name="message"></textarea>
+      </div>
+      <div class="app-form-group buttons">
+        <button class="app-form-button" type="submit" value="Send">{{ 'send' | translate }}</button>
+      </div>
+    </form>
+  </div>
+</div>

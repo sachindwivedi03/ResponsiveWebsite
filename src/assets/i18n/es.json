@@ -1,0 +1,121 @@
+{
+    "choose_language": "Langue",
+    "header": {
+        "home": "Domicile",
+        "about": "Environ",
+        "services": "Services",
+        "blogs": "Blogs",
+        "contact": "Contactez-nous"
+    },
+    "footer": {},
+    "homep1": "Solution unique pour les besoins de conception de votre machine électrique!",
+    "homep11": "Révolutionnons ensemble !",
+    "homep2": "Nous sommes une start-up technologique qui s’efforce de fournir à nos clients des solutions de conception de moteurs électriques et de contrôleurs bien optimisées, très efficaces mais compétitives en termes de coûts.",
+    "homep3": "Nous intégrons plusieurs physiques impliquées dans la machine électrique, à savoir électromagnétique, thermique, structurelle, acoustique, contrôle pour générer des conceptions de pointe.",
+    "homeh2": "Pourquoi Motorcon?",
+    "homeh21": "Expérience riche",
+    "homep21": "Notre équipe dispose d’une vaste recherche industrielle et de recherche dans la conception et le développement de machines électriques",
+    "homeh31": "Flexibilité ",
+    "homep31": "Nous travaillons en fonction des exigences de nos clients pour assurer une expérience transparente à nos clients",
+    "homeh41": "Innovation ",
+    "homep41": "Nous travaillons continuellement avec des établissements universitaires pour suivre les progrès de la technologie.",
+    "homeh51": "Disponibilité ",
+    "homep51": "Nous sommes toujours joignables pour nos clients",
+    "homeh3": "Ce que nous offrons",
+    "homep311": "Conceptions électromagnétiques",
+    "homep312": "Conceptions de contrôleurs",
+    "homep313": "Conceptions mécaniques",
+    "info": "Afficher les infos",
+    "language.english": "EN",
+    "language.french": "FR",
+    "language.german": "DE",
+    "language.italian": "IT",
+    "aboutp1": "Motorcon Solutions est une start-up technologique dirigée par une équipe d’ingénieurs jeunes mais expérimentés pour développer des conceptions de machines électriques compétitives pour l’automobile, l’aérospatiale, la défense et les applications industrielles.",
+    "aboutp11": "Motorcon solutions travaille à vos côtés pour comprendre vos points faibles et travailler à la conception de solutions adaptées à vous, pour vous mettre en avance sur vos concurrents.",
+    "aboutp13": "Nous tirons parti de notre vaste expérience pour vous fournir les meilleures solutions.",
+    "abouth2": "Nous travaillons dans :",
+    "aboutp21": "Conceptions électromagnétiques ",
+    "aboutp22": "Conceptions thermiques",
+    "aboutp23": "Analyse structurale et acoustique",
+    "aboutp24": "Conception de contrôleur pour les lecteurs",
+    "abouth3": "Notre vision et notre mission",
+    "aboutp3": "Nous développer en tant que partenaire de conception privilégié pour les moteurs électriques et les contrôleurs pour les OEM en Inde et dans le monde entier.",
+    "aboutp4": "Tirer parti de nos connaissances et de notre expérience au profit de nos clients et réaliser des progrès technologiques collectifs dans le domaine des moteurs électriques et des contrôleurs",
+    "aboutp5": "Pour en savoir plus sur nous s’il vous plaît écrivez-nous à",
+    "contactus": "Contactez-nous",
+    "getintouch": "Contactons-nous",
+    "welcometext": "Nous sommes ouverts aux collaborations.",
+    "name": "Nom complet",
+    "mailaddress": "Ajouts d’e-mails",
+    "mail": "Messagerie électronique: ",
+    "company": "Compagnie",
+    "message": "Message",
+    "address": "Adresse: ",
+    "send": "ENVOYER",
+    "website": "Site internet: ",
+    "successMessage": "Merci de nous avoir choisis. Nous reviendrons vers vous!",
+    "failedMessage": "Désolé, en raison d’un problème technique, nous ne pouvons pas envoyer votre message. S’il vous plaît écrivez-nous à contact@motorcons.com",
+    "servicesp11": "Grâce à notre expertise dans la conception de moteurs et de contrôleurs pour moteurs électriques, nous sommes les mieux adaptés pour répondre à vos besoins de conception de machines électriques et de contrôleurs.",
+    "servicesp12": "Dans les premiers jours, la machine électrique était considérée comme un problème électromagnétique. Mais aujourd’hui, en raison de contraintes d’espace et de coûts dans les applications automobiles et en raison de la concurrence acharnée sur le marché, il est nécessaire de considérer toute la physique entrelacée impliquée dans une machine électrique pour une conception optimisée.",
+    "servicesp13": "Nous sommes spécialisés dans la conception et l’analyse de machines électriques du point de vue multi-physique.",
+    "servicesh2": "Nos services de conception de machines électriques comprennent :",
+    "servicesh21": {
+        "servicesh": "Conception électromagnétique",
+        "servicesp1": "Sélection de la topologie",
+        "servicesp2": "Conception basse fidélité",
+        "servicesp3": "Analyse de sensibilité et optimisation",
+        "servicesp4": "Vérification de la conception haute fidélité",
+        "servicesp5": "Simulation de conception avancée "
+    },
+    "servicesh22": {
+        "servicesh": "Conception thermique",
+        "servicesp1": "Convection naturelle - Conception d’ailettes",
+        "servicesp2": "Refroidissement par air forcé - Ventilateur refroidi",
+        "servicesp3": "Refroidissement liquide forcé"
+    },
+    "servicesh23": {
+        "servicesh": "Conception structurelle et acoustique",
+        "servicesp1": "Analyse des contraintes sur rotor à la vitesse souhaitée",
+        "servicesp2": "NVH"
+    },
+    "servicesh24": {
+        "servicesh": "Conception de l’algorithme de contrôle",
+        "servicesp1": "Conception d’algorithme de contrôle avec rom / Tr- Tr Co- simulation",
+        "servicesp2": "Génération de code pour les microcontrôleurs leaders du secteur"
+    },
+    "servicesh25": {
+        "servicesh": "Conception de contrôleur pour les lecteurs",
+        "servicesp1": "Conception de carte de contrôle",
+        "servicesp2": "Conception de la carte d’alimentation"
+    },
+    "servicesh26": {
+        "servicesh": "Analyse thermique pour PCB",
+        "servicesp1": "Convection naturelle - Conception d’ailettes",
+        "servicesp2": "Refroidissement par air forcé - Ventilateur refroidi",
+        "servicesp3": "Refroidissement liquide forcé"
+    },
+    "servicesh27": {
+        "servicesh": "Modélisation 3D et dessins de fabrication 2D",
+        "servicesp1": "Dessins prêts à fabriquer"
+    },
+    "servicesh3": "Nous excellons dans",
+    "servicesh31": {
+        "servicesh": "Moteurs à flux radial:",
+        "servicesp1": "Moteurs à induction",
+        "servicesp2": "Moteurs synchrones à aimants permanents ",
+        "servicesp3": "Moteurs synchrones à champ enroulé",
+        "servicesp4": "Moteurs synchrones à réluctance",
+        "servicesp5": "Moteurs à réluctance commutés",
+        "servicesp6": "Moteurs à réluctance synchrone assistés par aimant permanent"
+    },
+    "servicesh32": {
+        "servicesh": "Moteurs à flux axial :",
+        "servicesp1": "Moteurs synchrones à aimants permanents:",
+        "servicesp2": "Rotor unique-Stator unique",
+        "servicesp3": "Double stator-Rotor simple (AFIR)",
+        "servicesp4": "Double rotor-Stator simple (TORUS)"
+    },
+    "servicesh4": "Nous utilisons le portefeuille Ansys pour nos simulations. Nous simulons toutes nos conceptions par la méthode des éléments finis pour assurer une corelation maximale avec des prototypes réels.",
+    "servicesh5": "Nous utilisons MATLAB-Simulink pour la conception d’algorithmes de contrôle.",
+    "servicesConnect": "Vous voulez en savoir plus? Connectons-nous!"
+}

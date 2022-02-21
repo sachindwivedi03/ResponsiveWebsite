@@ -1,0 +1,238 @@
+* {
+    font: 20px ;
+    font-family: Raleway,sans-serif;
+    color: black;
+  }
+ .topmage{
+   width: 80%;
+   padding-left: 10%;
+ }
+
+#body{
+    width: 100%;
+    height: 650 px;  
+    background-color: white;
+    margin-top: 75px;
+  }
+  .box1{
+    font-size: 20px;
+    color: black;
+   /* background-image: linear-gradient(0deg,#FFB540 100%, #D07F00 0% ); */
+   background-color: #FFB540;
+background-image: linear-gradient(315deg, #FFB540 0%, #D07F00 74%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.75);
+  }
+  .box11{
+    width: 48%;
+  }
+  .box11>div{
+   padding: 20px;
+  }
+  .box11>div>p{
+    margin-top: 5%;
+    font-size: 40px;
+    margin-bottom:40px ;
+  }
+  .anchorcontent{
+    background-color:  #000000;
+    border: 3px solid #002964;
+    font-size: 23px;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    margin: 15px 0px 20px 0px;
+    padding: 10px 20px 10px 20px;
+  }
+  .anchorcontent:hover{
+box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.75);
+position: relative;
+top:-3px;
+left:-3px;
+
+  }
+  .box111{
+    padding: 25px;
+    font-size: 25px;
+    color: black;
+    position: relative;
+    font-family: Cambria;
+    margin: 35px 25px 10px 35px;
+  }
+  .box2{
+    
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    top: -30px;
+    justify-content: space-between;
+    flex-wrap: wrap;   
+    
+    
+  }
+  .box02{
+    margin: 10px 25px 50px 25px;
+    padding: 10px;
+    padding: 5px;
+    background-color: #FFA731;
+box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.75);
+    
+  }
+  .box02 > h1 {
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .box22{
+    width: 24%;
+    margin-bottom: 10px;
+    background-color: #540100;
+    /* border: 1px solid rgba(255, 255, 255, 0.125); */
+    color: black;
+  }
+  .boxinbox{
+    width: 98%;
+    height: 100%;
+    padding: 10px 10px 10px 30px;
+    background-color: #FFA731;
+  }
+  .boxinbox > h5{
+    font-size: 30px;
+  }
+  .boxinbox > p{
+    font-size: 20px;
+    margin-left: 33px;
+  }
+  .box3{
+    padding: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 12px;
+    margin-bottom: 25px;
+  }
+  .box3>h5{
+    font-size: 40px;
+    margin-left: 25px;
+  }
+.wwo{
+  width:60%;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  border-radius: 12px;
+}
+.arr{
+  width:40px;
+  height: 40px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
+.arr2{
+  width:30px;
+  height: 30px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+.box33{
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box33>a{
+  box-shadow: 5px 5px 26px 5px rgba(0,0,0,0.75);
+}
+.box33>a:hover{
+  box-shadow: 5px 5px 30px 12px rgba(0,0,0,0.75);
+  position: relative;
+  top:-3px;
+  left:-3px;
+}
+
+#box333{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 32%;
+  height: 250px;
+  border-radius: 12px;
+  border: 3px solid black;
+  text-decoration: none;
+  position: relative;
+  
+  
+}
+#box333 > p {
+  
+  font-size: 27px;
+  position: absolute;
+  color: white;
+  bottom: 0;
+  padding-left: 2%;
+  
+}
+.content31{
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 20%,#000000), url("../../assets/img/Electromagnetics.png");
+  background-size: cover;
+}
+.content32{
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 20%,#000000), url("../../assets/img/controller.jpeg");
+  background-size: cover;
+  
+}
+.content33{
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 20%,#000000), url("../../assets/img/thermal.PNG");
+  background-size: cover;
+}
+
+  @media (max-width:500px){
+    .box1{
+      margin: 0;
+      padding: 0;
+      font-size: 20px;
+    }
+    .anchorcontent{
+      font-size: 20px;
+      margin: 5px 0px 5px 0px;
+      padding: 5px 20px 5px 20px;
+    }
+    .box111{
+      padding: 0;
+      margin: 20px;
+    }
+    .box02{
+      padding: 0px;
+      margin: 5px;
+    }
+    .boxinbox{
+      width: 100%;
+      padding: 0;
+      height: 96%
+    }
+    .box22{
+      width: 100%;
+    }
+    .box3{
+      padding: 0;
+      margin-top: 25px;
+    } .box11>div>p{
+      margin-top: 3%;
+      font-size: 40px;
+      margin-bottom:20px ;
+    }
+
+    .box11{
+      width: 100%;
+    }
+    #box333{
+      width: 100%;
+    }
+  }

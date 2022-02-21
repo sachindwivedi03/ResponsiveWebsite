@@ -1,0 +1,130 @@
+{  
+        "choose_language": "Sprache",
+        "header": {
+          "home": "Heim",
+          "about": "Über",
+          "services": "Dienste",
+          "blogs": "Blogs & Blogs",
+          "contact": "Kontaktieren Sie uns"
+        },
+        "footer": {},
+        "homep1": "One-Stop-Lösung für die Designanforderungen Ihrer elektrischen Maschine!",
+        "homep11": "Lassen Sie uns gemeinsam revolutionieren!",
+        "homep2": "Wir sind ein Technologie-Start-up, das daran arbeitet, unseren Kunden gut optimierte, hocheffiziente und dennoch kostengünstige Lösungen für das Design von Elektromotoren und Steuerungen anzubieten.",
+        "homep3": "Wir integrieren mehrere Physik, die an elektrischen Maschinen beteiligt sind, nämlich Elektromagnetik, Wärme, Struktur, Akustik, Steuerung, um innovative Designs zu erzeugen.",
+        "homeh2": "Warum Motorcon?",
+        "homeh21": "Reiche Erfahrung",
+        "homep21": "Unser Team verfügt über umfangreiche Industrie- und Forschungsarbeiten in Design und Entwicklung von elektrischen Maschinen",
+        "homeh31": "Flexibilität ",
+        "homep31": "Wir arbeiten auf der Grundlage der Anforderungen unserer Kunden, um unseren Kunden ein nahtloses Erlebnis zu bieten",
+
+            "homeh41": "Innovation ",
+            "homep41": "Wir arbeiten kontinuierlich mit akademischen Institutionen zusammen, um mit den Fortschritten in der Technologie Schritt zu halten.",
+            "homeh51": "Verfügbarkeit ",
+            "homep51": "Wir sind für unsere Kunden immer erreichbar",
+            "homeh3": "Was wir bieten",
+            "homep311": "Elektromagnetische Ausführungen",
+            "homep312": "Controller-Designs",
+            "homep313": "Mechanische Konstruktionen",
+            "info": "Info anzeigen",
+    "language.english": "EN",
+    "language.french": "FR",
+    "language.german": "DE",
+    "language.italian": "IT",
+ 
+        "aboutp1": "Motorcon Solutions ist ein Technologie-Start-up, das von einem jungen, aber erfahrenen Team von Ingenieuren geleitet wird, um wettbewerbsfähige elektrische Maschinendesigns für Automobil-, Luft- und Raumfahrt-, Verteidigungs- und Industrieanwendungen zu entwickeln.",
+        "aboutp11": "Motorcon solutions arbeitet mit Ihnen zusammen, um Ihre Schwachstellen zu verstehen und auf Die Entwicklung von Lösungen hinzuarbeiten, die auf Sie zugeschnitten sind, damit Sie Ihrer Konkurrenz einen Schritt voraus sind.",
+        "aboutp13": "Wir nutzen unsere umfangreiche Erfahrung, um Ihnen die besten Lösungen zu bieten.",
+        "abouth2": "Wir arbeiten in:",
+        "aboutp21": "Elektromagnetische Konstruktionen ",
+        "aboutp22": "Thermische Designs",
+        "aboutp23": "Struktur- und Akustikanalyse",
+        "aboutp24": "Controller-Design für Antriebe",
+        "abouth3": "Unsere Vision & Mission",
+        "aboutp3": "Wir entwickeln uns als bevorzugter Designpartner für E-Motoren und Steuerungen für OEMs in Indien und auf der ganzen Welt.",
+        "aboutp4": "Unser Wissen und unsere Erfahrung zum Nutzen unserer Kunden zu nutzen und einen gemeinsamen technologischen Fortschritt im Bereich der E-Motoren und Steuerungen zu erreichen",
+        "aboutp5": "Um mehr über uns zu erfahren, schreiben Sie uns bitte an",
+
+  "contactus": "Kontaktieren Sie uns",
+  "getintouch": "Nehmen wir Kontakt auf",
+  "welcometext": "Wir sind offen für Kooperationen.",
+  "name": "Vollständiger Name",
+  "mailaddress": "E-Mail-Addierer",
+  "mail": "E-Mail: ",
+  "company": "Firma",
+  "message": "Nachricht",
+  "address": "Adresse: ",
+  "send": "SENDEN",
+  "website": "Website: ",
+  "successMessage": "Vielen Dank, dass Sie sich für uns entschieden haben. Wir melden uns bei Ihnen!",
+  "failedMessage": "Es tut uns leid, aber aufgrund eines technischen Problems können wir Ihre Nachricht nicht senden. Bitte schreiben Sie uns an contact@motorcons.com",
+  "servicesp11": "Mit unserem Know-how im Motor- und Steuerungsdesign für Elektromotoren sind wir am besten geeignet, um Ihre Anforderungen an das Design elektrischer Maschinen und Steuerungen zu erfüllen.",
+  "servicesp12": "In früheren Tagen wurde die elektrische Maschine als elektromagnetisches Problem angesehen. Aber heute ist es aufgrund von Platz- und Kostenbeschränkungen in der Automobilanwendung und aufgrund des Verdrängungswettbewerbs auf dem Markt notwendig, die gesamte verflochtene Physik einer elektrischen Maschine für ein optimiertes Design zu berücksichtigen.",
+  "servicesp13": "Wir sind spezialisiert auf die Konstruktion und Analyse elektrischer Maschinen aus multiphysikalischer Sicht.",
+
+    "servicesh2": "Unsere Dienstleistungen im Bereich der Entwicklung elektrischer Maschinen umfassen:",
+
+    "servicesh21": {
+      "servicesh": "Elektromagnetisches Design",
+      "servicesp1": "Topologie-Auswahl",
+      "servicesp2": "Low-Fidelity-Design",
+      "servicesp3": "Sensitivitätsanalyse und -optimierung",
+      "servicesp4": "High-Fidelity-Design-Verifizierung",
+      "servicesp5": "Erweiterte Design-Simulation "
+    },
+    "servicesh22": {
+      "servicesh": "Thermisches Design",
+      "servicesp1": "Natürliche Konvektion - Lamellendesign",
+      "servicesp2": "Zwangsluftkühlung - Lüftergekühlt",
+      "servicesp3": "Erzwungene Flüssigkeitskühlung"
+    },
+    "servicesh23": {
+      "servicesh": "Bauliche und akustische Planung",
+      "servicesp1": "Spannungsanalyse am Rotor bei gewünschter Drehzahl",
+      "servicesp2": "NVH"
+    },
+    "servicesh24": {
+      "servicesh": "Entwurf von Steuerungsalgorithmen",
+      "servicesp1": "Entwurf von Regelalgorithmen mit ROM/ Tr- Tr Co- Simulation",
+      "servicesp2": "Codegenerierung für branchenführende Mikrocontroller"
+    },
+        "servicesh25": {
+          "servicesh": "Controller-Design für Antriebe",
+          "servicesp1": "Steuerkartendesign",
+          "servicesp2": "Powerboard-Design"
+        },
+        "servicesh26": {
+          "servicesh": "Thermische Analyse für Leiterplatten",
+          "servicesp1": "Natürliche Konvektion - Lamellendesign",
+          "servicesp2": "Zwangsluftkühlung - Lüftergekühlt",
+          "servicesp3": "Erzwungene Flüssigkeitskühlung"
+        },
+
+        "servicesh27": {
+          "servicesh": "3D-Modellierung und 2D-Fertigungszeichnungen",
+          "servicesp1": "Fertige Zeichnungen"
+        },
+        "servicesh3": "Wir zeichnen uns aus in",
+        "servicesh31": {
+          "servicesh": "Radialflussmotoren:",
+          "servicesp1": "Induktionsmotoren",
+          "servicesp2": "Permanentmagnet-Synchronmotoren ",
+          "servicesp3": "Wundfeld-Synchronmotoren",
+          "servicesp4": "Reluktanz-Synchronmotoren",
+          "servicesp5": "Geschaltete Reluktanzmotoren",
+          "servicesp6": "Permanentmagnetunterstützte Synchronreluktanzmotoren"
+        },
+        "servicesh32": {
+          "servicesh": "Axial-Flussmittelmotoren:",
+          "servicesp1": "Permanentmagnet-Synchronmotoren:",
+          "servicesp2": "Einzelrotor-Einzelstator",
+          "servicesp3": "Doppel-Stator-Einzelläufer (AFIR)",
+          "servicesp4": "Doppelrotor-Einzelstator (TORUS)"
+        },
+        "servicesh4": "Für unsere Simulationen nutzen wir das Ansys-Portfolio. Wir simulieren alle unsere Entwürfe nach der Finite-Elemente-Methode, um eine maximale Kohäsion mit tatsächlichen Prototypen zu gewährleisten.",
+    
+            "servicesh5": "Wir verwenden MATLAB-Simulink für das Design von Regelalgorithmen.",
+            "servicesConnect": "Möchten Sie mehr erfahren? Lass uns verbinden!"
+        
+    
+}

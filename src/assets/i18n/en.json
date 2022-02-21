@@ -1,0 +1,126 @@
+{  
+    "choose_language": "Language",
+    "header":{
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "blogs": "Blogs",
+        "contact": "Contact Us"
+    },
+    "footer":{
+    },
+    "homep1": "One-stop solution for your electrical machine's design needs!",
+    "homep11": "Let's revolutionize together!",
+    "homep2": "We are a technology start-up working to provide our customers with well optimised, highly efficient yet cost competitive electric motor and controller design solutions.",
+    "homep3": "We integrate multiple physics involved in electrical machine viz. electromagnetics, thermal, structural, acoustics, control to generate cutting edge designs.",
+    "homeh2": "Why Motorcon?",
+    "homeh21": "Rich experience",
+    "homep21": "Our team has extensive industrial and research in design and development of electrical machines",
+    "homeh31": "Flexibility ",
+    "homep31": "We work based on our customers requirement to ensure seamless experience to our customers",
+    "homeh41": "Innovation ",
+    "homep41": "We continuously work with academic institutions to keep up with the advancements in the technology.",
+    "homeh51": "Availability ",
+    "homep51": "We are always reachable for our customers",
+    "homeh3": "What we offer",
+    "homep311": "Electromagnetic Designs",
+    "homep312": "Controller Designs",
+    "homep313": "Mechanical Designs",
+    "info": "Show Info",
+    "language.english": "EN",
+    "language.french": "FR",
+    "language.german": "DE",
+    "language.italian": "IT",
+
+    "aboutp1": "Motorcon Solutions is a technology start-up led by young, yet experienced team of engineers to develop competitive electrical machines designs for automotive, aerospace, defence, and industrial applications.",
+    "aboutp11": "Motorcon solutions works alongside with you to understand your pain points and work towards designing solutions tailored to you, to put you ahead of your competition.",
+    "aboutp13": "We leverage our extensive experience to provide you with the best solutions.",
+    "abouth2": "We work in:",
+    "aboutp21": "Electromagnetic designs ",
+    "aboutp22": "Thermal designs",
+    "aboutp23": "Structural and acoustics analysis",
+    "aboutp24": "Controller design for drives",
+    "abouth3": "Our Vision & Mission",
+    "aboutp3": "Developing ourself as preferred design partner for E- motors and controllers for OEMs in India and all over the globe.",
+    "aboutp4": "To leverage our knowledge and experience to benefit our customer and to achieve collective technological advancement in the field of E-motors and controllers",
+    "aboutp5": "To know more about us please write us at",
+
+    "contactus": "Get in touch",
+    "getintouch": "Let's get in touch",
+    "welcometext": "We are open for collaborations.",
+    "name": "Full Name",
+    "mailaddress": "Email Adderss",
+    "mail": "Email: ",
+    "company": "Company",
+    "message": "Message",
+    "address": "Address: ",
+    "send": "SEND",
+    "website": "Website: ",
+    "successMessage": "Thank you for choosing Us. We will get back to you!",
+    "failedMessage": "Sorry, due to some technical issue we cannot send your message. Please write us at contact@motorcons.com",
+
+    "servicesp11": "With our expertise in motor and controller design for electrical motors, we are best suited to support your electrical machine and controller design needs.",
+    "servicesp12": "In earlier days electrical machine was seen as an electromagnetic problem. But today due to space and cost constraint in automotive application and due to cut-throat competition in the market, it is necessary to consider all the intertwined physics involved in an electrical machine for an optimized design.",
+    "servicesp13": "We specialize in design and analysis of electrical machine from multi- physics point of view.",
+    "servicesh2": "Our electrical machine design services include:",
+    "servicesh21":{
+        "servicesh": "Electromagnetic design",
+        "servicesp1": "Topology Selection",
+        "servicesp2": "Low fidelity design",
+        "servicesp3": "Sensitivity analysis and Optimization",
+        "servicesp4": "High fidelity design verification",
+        "servicesp5": "Advanced Design Simulation "
+    },
+    "servicesh22":{
+        "servicesh": "Thermal design",
+        "servicesp1": "Natural convection - Fin design",
+        "servicesp2": "Forced air cooling - Fan cooled",
+        "servicesp3": "Forced liquid cooling"
+    },
+    "servicesh23":{
+        "servicesh": "Structural and acoustic design",
+        "servicesp1": "Stress analysis on rotor at desired speed",
+        "servicesp2": "NVH"
+    },
+    "servicesh24":{
+        "servicesh": "Control algorithm design",
+        "servicesp1": "Control algorithm design with ROM/ Tr- Tr Co- simulation",
+        "servicesp2": "Code generation for industry leading micro-controllers"
+    },
+    "servicesh25":{
+        "servicesh": "Controller design for drives",
+        "servicesp1": "Control card design",
+        "servicesp2": "Power board design"
+    },
+    "servicesh26":{
+        "servicesh": "Thermal analysis for PCBs",
+        "servicesp1": "Natural convection - Fin design",
+        "servicesp2": "Forced air cooling - Fan cooled",
+        "servicesp3": "Forced liquid cooling"
+    },
+    "servicesh27":{
+        "servicesh": "3D modelling and 2D manufacturing drawings",
+        "servicesp1": "Ready to manufacture drawings"
+    },
+    "servicesh3": "We excel in",
+    "servicesh31":{
+        "servicesh": "Radial flux motors:",
+        "servicesp1": "Induction motors",
+        "servicesp2": "Permanent magnet synchronous motors ",
+        "servicesp3": "Wound field synchronous motors",
+        "servicesp4": "Reluctance synchronous motors",
+        "servicesp5": "Switched reluctance motors",
+        "servicesp6": "Permanent magnet assisted synchronous reluctance motors"
+    },
+    "servicesh32":{
+        "servicesh": "Axial Flux Motors:",
+        "servicesp1": "Permanent magnet synchronous motors:",
+        "servicesp2": "Single rotor-Single stator",
+        "servicesp3": "Double stator-Single rotor (AFIR)",
+        "servicesp4": "Double rotor-Single stator (TORUS)"
+    },
+    "servicesh4": "We use Ansys portfolio for our simulations. We simulate all of our designs by finite element method to ensure maximum correlation with actual prototypes.",
+    "servicesh5": "We use MATLAB-Simulink for control algorithm design.",
+    "servicesConnect": "Wanna know more? Let's connect!"
+   
+}

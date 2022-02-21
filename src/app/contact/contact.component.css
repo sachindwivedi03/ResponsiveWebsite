@@ -1,0 +1,276 @@
+.background{
+  display: flex;
+  flex-wrap: wrap;
+  font: 20px Raleway,sans-serif;;
+  margin: 100px 25px  25px 25px;
+box-shadow: 0px 0px 17px 10px rgba(0,0,0,0.75);
+}
+.app-title{
+  width: 30%;
+  padding: 20px;
+  background: #04AA6D;
+  color: white;
+}
+.app-title > h1{
+  padding-top: 35px;
+}
+.screen-body-item{
+  width:70%;
+}
+.contactdetails{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 40%;
+  margin-top: 15%;
+}
+.address{
+  padding-right: 2%;
+  padding-top: 10px;
+  
+}
+.address > h5{
+  font-size: 16px;
+  font-weight: bold;
+}
+.address > h5 >p{
+  font-size: 16px;
+  font-weight: normal;
+}
+.imgaddress{
+  height: 40px;
+  width: 40px;
+}
+.imgmail{
+  height: 30px;
+  width: 38px;
+}
+.imgsite{
+  height: 35px;
+  width: 35px;
+}
+.address{
+  display: flex;
+}
+.app-form{
+  padding: 5%;
+}
+.app-form-control{
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc; 
+  border-radius: 4px;
+  box-sizing: border-box; 
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical 
+}
+.app-form > h1{
+  padding-bottom: 10px;
+}
+.app-form-control:hover {
+  border: 3px solid #006832;
+}
+.line1{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+}
+.name{
+  width: 48%;
+}
+.mail{
+  width: 48%;
+}
+
+.app-form-button{
+  background-color: #004917;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+@media(max-width:900px){
+  .name{
+    width: 100%;
+  }
+  .mail{
+    width: 100%;
+  }
+}
+
+@media(max-width:500px){
+  .app-title{
+    width: 100%;
+   
+  }
+  .screen-body-item{
+    width:100%;
+  }
+}
+@media(max-width:850px){
+  .screen-body-item{
+    width:100%;
+  }
+  .app-title{
+    width: 100%;
+  }
+  .contactdetails{
+    flex-direction: row;
+    margin-top: 4%;
+    justify-content: space-between;
+    
+  }
+}
+
+/* code for popup */
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+.address>h5>p>a{
+  color: white;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: 'Georgia';
+}
+.address>h5>p>a:hover{
+  font-size: 20px;
+  
+}
+
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+
+.alert2{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  left: 0;
+  top: 75px;
+  position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
+
+}
+.alert{
+  width:90%;
+  margin:18% auto;
+  padding:15px;
+  border-radius:5px;
+  box-shadow:0 0 15px 5px #ccc;
+  display: flex;
+  justify-content: space-between;
+}
+.alert>h3{
+  font-size: 25px;
+  width: 80%;
+  color: white;
+}
+.failedText{
+  font-size: 25px;
+  width: 80%;
+  color: white;
+  text-decoration: none;
+}
+.failedText:hover{
+  font-size: 27px;
+  width: 80%;
+  color: white;
+  text-decoration: none;
+}
+.close{
+  width: 5%;
+}
+.closeIcon{
+  width:30px;
+  height:30px;
+}
+.closeIcon:hover{
+  width:33px;
+  height:33px;
+}
+
+#failed{
+  background-color: #F9654C;
+  border: 3px solid #aa1b02;
+}
+#passed{
+  border: 3px solid #002E00;
+  background-color: #009A5E;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+  .background{
+    display: flex;
+    flex-wrap: wrap;
+    font: 20px Raleway,sans-serif;;
+    margin: 65px 0 0 0;
+    width: 100%;
+  }
+  .screen-body-item{
+    width:100%;
+  }
+  .app-title{
+    width: 100%;
+  }
+  .contactdetails{
+    flex-direction: column;
+    margin-top: 4%;
+    justify-content: space-between;
+    
+  }
+}
